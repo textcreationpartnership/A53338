@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Omnia comesta a Belo, or, An answer out of the West to a question out of the North wherein the earth is opened, and the napkin found, in which the trading talent of the nation hath been tyed up, and lyen hid for some years last past : for want of which, all persons in England, from the tenant to the landlord, from the weaver to the merchant, have languished of a deep consumption.</title>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53338</idno><idno type="EEBO-CITATION">11863303</idno>
+  <idno type="VID">50052</idno>
+  <idno type="EEBO-PROQUEST">2240889193</idno>
+  
+            <idno type="STC">Wing O290</idno>
+            <idno type="STC">ESTC R17695</idno>
+            <idno type="OCLC">11863303</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 503:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Omnia comesta a Belo, or, An answer out of the West to a question out of the North wherein the earth is opened, and the napkin found, in which the trading talent of the nation hath been tyed up, and lyen hid for some years last past : for want of which, all persons in England, from the tenant to the landlord, from the weaver to the merchant, have languished of a deep consumption.</title>
+               </titleStmt>
+               <extent>16 [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50052:1"/>
+            <p>
+               <hi>Omnia Comesta a Belo.</hi> OR, An ANSWER Out of the WEST TO A QUESTION Out of the NORTH.</p>
+            <p>WHEREIN The Earth is opened, and the Napkin found, in which the Trading Talent of the Nation hath been tyed up, and lyen hid for some Years last passed; for want of which, all Persons in <hi>England,</hi> from the Tenant to the Landlord, from the Weaver to the Mer<g ref="char:EOLhyphen"/>chant, have languished of a deep Consumption.</p>
+            <q>
+               <bibl>
+                  <hi>Sir Fr. Bacon, Ess. of</hi> Sedition <hi>and</hi> Troubles, <hi>Chap. 15. Pag. 85.</hi>
+               </bibl>
+               <p>Above all things, good Policy is to be used, that the Treasure and Mo<g ref="char:EOLhyphen"/>neys in a State be not gathered into few hands, for otherwise a State may have a great Stock and yet starve: and Money is like Muck, not good except it be spread.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem, Pag. 172.</hi>
+               </bibl>
+               <p>The Blessings of <hi>Judah</hi> and <hi>Issachar</hi> will never meet, that the same People or Nation should be both the Lyons Whelp, and the Ass between two Burdens: neither will it be, That a People over-laid with Taxes should ever become Martial and Valiant.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hist. of Bell and the Dragon, Vers. 8.</hi>
+               </bibl>
+               <p>So the King was wrath, and called for his Priests, and said unto them, If ye tell me not who it is that hath devoured these expences, ye shall dye.</p>
+               <bibl>
+                  <hi>Vers. 20, 21.</hi>
+               </bibl>
+               <p>And the King said, I see the foot-steps of Men, Women and Children: and the King was angry, and took the Priests with their Wives and Children, who shewed him the privy Door where they came in, and consumed such things as were upon the Table.</p>
+            </q>
+            <p>Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:50052:2"/>
+            <pb n="3" facs="tcp:50052:2"/>
+            <head>
+               <hi>Omnia Comesta a Belo.</hi> OR, An ANSWER out of the WEST, TO A QUESTION out of the NORTH, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Must beg your pardon that I have so long tired your expecta<g ref="char:EOLhyphen"/>tions, and which is worse have altogether failed them, except the few Scraps you find in this Reply will stop the mouth of your first <hi>Query;</hi> for as to the four last, I have neither Time nor Capacity to send you any thing that may claim the Title of a Resolve.</p>
+            <p>Yet that others more able may contribute towards an Answer to your so Seasonable and Rational Demands, and that you may not think I have forgot them, I shall here insert them in order as you proposed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="queries">
+                        <div n="1" type="query">
+                           <head>Query I.</head>
+                           <p>
+                              <hi>Whether the great Cause of Impoverishing the Nation, Ruine of Trade, and general consumption of Comfort, Settlement and Content, which hath brought the Land to a meer Anatomy, is not caused by the Pomp, Pride, Luxury, Exaction and Oppressions of the</hi> Prelates?</p>
+                        </div>
+                        <div n="2" type="query">
+                           <head>Query II.</head>
+                           <p>
+                              <hi>Whether, Since all other Reformed Churches in</hi> Europe, <hi>did upon the first Reformation and departure from Popery, cast out all Diocesan Bi<g ref="char:EOLhyphen"/>shops,
+<pb n="4" facs="tcp:50052:3"/>Name and Thing, Root and Branch, as an Office altogether Po<g ref="char:EOLhyphen"/>pish, together with all their Hierarchical appurtenances, and do to this day esteem of them no otherwise; why did not, or doth not</hi> England <hi>also do the like?</hi>
+                           </p>
+                        </div>
+                        <div n="3" type="query">
+                           <head>Query III.</head>
+                           <p>
+                              <hi>Whether the several Reformed Countries beyond the Seas, did not take into the hands of their Supream Governours all the Lordly Revenues of the Prelates, and reserve them for Publick use, or dispose part of them to such persons as had well deserved of them, in the faithful service of their Country; and if so, whether it might not be of good and great con<g ref="char:EOLhyphen"/>cern to this Kingdom, for the Lordships and Baronies belonging to so ma<g ref="char:EOLhyphen"/>ny useless persons, to be disposed of by Publick Authority, for Publick Good; and more especially for the honourable maintenance of those worthy Persons and their Posterity, who have lost their Blood and Estates in the Kings service, and at present lye under great discouragements, and bleed<g ref="char:EOLhyphen"/>ing wounds in their Temporals, for want of a Suitable Recompence: whilest these, who put them altogether, never did half the service, nor if occasion should require, never can, as one of these Heroick Gentlemen, yet as Ecclesiasticks are rewarded with</hi> 2, 3, 4, 5, 6, 7, 8 <hi>thousand pounds</hi> per annum, <hi>a man?</hi>
+                           </p>
+                        </div>
+                        <div n="4" type="query">
+                           <head>Query IV.</head>
+                           <p>
+                              <hi>Whether in those Kingdoms and States where Prelacy is extirpated, and a Presbytery only retained, there be not as Godly, Able, Orthodox Preachers, and as constant Preaching as in this Kingdom; and more especially, whether their Subjects are not as cordially Obedient, and as free from any Rebellion, as in these places, where Bishops are retained? and also, Whether the Councils are not more free from molestation, their No<g ref="char:EOLhyphen"/>bility and Gentry free from Afronts, and the Commonalty more free from Oppression, where the Prelates are disabled from sitting in Council, from Pearking above the Nobles, and from imposing upon the Commons?</hi>
+                           </p>
+                        </div>
+                        <div n="5" type="query">
+                           <head>Query V.</head>
+                           <p>
+                              <hi>Whether the present State of Affaires in our Neighbour Nations, especially of</hi> France, <hi>who have a Prodigious Victorious Army, a Fleet still lying at</hi> Rochel, <hi>a fit place from whence to invade us; and the great
+<pb n="5" facs="tcp:50052:3"/>industry of the</hi> Pope <hi>imployed to divert their Armes from</hi> Spain, <hi>and turning them upon some other design; whether I say it be not reasonable to consider of some way to engage all hearts and hands in this Nation una<g ref="char:EOLhyphen"/>nimously to oppose all Invasions, rather than to multiply Discouragements upon the Body of the People by Episcopal Oppressions?</hi>
+                           </p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In Answer to your first, I am by many Reasons induced to con<g ref="char:EOLhyphen"/>clude in the Affirmative, <hi>That the cause of Impoverishing the Nation, Ruine of Trade, and general consumption of Comfort, Settlement and Content, is caused by the Pomp, Pride, Luxury, Exaction and Oppres<g ref="char:EOLhyphen"/>sion of the Prelates.</hi>
+            </p>
+            <p>It is a true Maxime of the Learned <hi>Verulam,</hi>
+               <q>A smaller number that spend more, and earn less, do wear out an Estate sooner, than a greater number that live lower, and gather more: So it is with an over-grown Cleargy, for they bring nothing to the Stock.</q>
+            </p>
+            <p>That the Trading Stock of the Nation is devoured in this Pre<g ref="char:EOLhyphen"/>latical Gulph, I shall demonstrate, by laying open to View the black back-door and sink that hath drained the Trading Purse dry.</p>
+            <div type="part">
+               <head>
+                  <hi>First,</hi> The Revenues, Pomp and State of the Prelates.</head>
+               <p>There are two Provincial Archbishops, <hi>Canterbury</hi> and <hi>York;</hi> with their Princely Retinue, Domestick Chaplains, Officers for Temporalties, their Spiritual Officers, Vicar-General, Guardian of the Spiritualties, Dean of the Arches, with all their under Officers and Attendants.</p>
+               <list>
+                  <head>
+                     <hi>Secondly,</hi> His Courts.</head>
+                  <item>Court of Faculties.</item>
+                  <item>Court of Audience.</item>
+                  <item>Prerogative Court.</item>
+                  <item>Delegates.</item>
+               </list>
+               <p>There are four and twenty Bishops Diocesan, with their Trains, Domestick Servants, Chaplains, Officers and Courts.</p>
+               <pb n="6" facs="tcp:50052:4"/>
+               <p> To these belong,
+<list>
+                     <item>26 Chancellours and their Attendants.</item>
+                     <item>24 Registers with their Clerks.</item>
+                     <item>24 Gentlemen Apparators.</item>
+                     <item>120 Inferiour Apparators.</item>
+                     <item>48 Proctors.</item>
+                  </list>
+               </p>
+               <p>There are under these Bishops, 60 Arch-Deacons, and these have 60 Courts, to which belong
+<list>
+                     <item>Commissaries.</item>
+                     <item>Officials.</item>
+                     <item>Surrogates.</item>
+                     <item>60 Registers.</item>
+                     <item>120 Proctors.</item>
+                     <item>200 Apparators.</item>
+                  </list>
+               </p>
+               <p>So that the Number belonging to Arch-Bishops, Bishops, Arch-Deacons, and their Trade, are judged to be no less than <hi>ten thou<g ref="char:EOLhyphen"/>sand Persons;</hi> which will require for their Maintenance, <hi>Two hun<g ref="char:EOLhyphen"/>dred thousand pounds per annum,</hi> reckoning them at <hi>twenty pounds</hi> a man; whereas some of them have <hi>one hundred pound,</hi> some <hi>two hun<g ref="char:EOLhyphen"/>dred pounds,</hi> some <hi>four hundred pounds,</hi> squeezed out of the poor People</p>
+               <p>As for their standing Rents they are well known.</p>
+               <p>Their Lordly Palaces, sumptuous Houses, Ecclesiastical Digni<g ref="char:EOLhyphen"/>ties, Baronies, <hi>&amp;c. vij. s. &amp; modis,</hi> such is their Income that it amounts at least to <hi>Four hundred and fifty thousand pounds a year.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>They have many other wayes to enrich them<g ref="char:EOLhyphen"/>selves and impoverish the Nation, As</head>
+               <p>First,</p>
+               <p>By Ordaining Deacons and Ministers four times a year for Mo<g ref="char:EOLhyphen"/>ney, by which they put up yearly hundreds of Pounds.</p>
+               <pb n="7" facs="tcp:50052:4"/>
+               <p> Secondly,</p>
+               <p>By Instituting and Inducting Parsons and Vicars to Benefices when they fall: For every such Institution and Induction they have <hi>Three pounds</hi> at least. And in <hi>England</hi> there are 9285 <hi>Parishes,</hi> so that at the rate of one in a <hi>Parish,</hi> it amounts to <hi>Twenty seven thousand eight hundred fifty five pounds.</hi>
+               </p>
+               <p>Thirdly,</p>
+               <p>By making Rural Deans yearly, and for the Oath taking, they pay <hi>Eight shillings and six pence.</hi>
+               </p>
+               <p>Fourthly,</p>
+               <p>By granting Licences to Beneficed Ministers to Preach in their own Cures; though they be Ordained before, and strictly com<g ref="char:EOLhyphen"/>manded to preach, yet they must not do it without a Licence, and this Licence costs them <hi>Ten shillings,</hi> so that in 9285 <hi>Parishes,</hi> this comes to <hi>Four thousand six hundred forty two pound ten shillings.</hi>
+               </p>
+               <p>Fifthly,</p>
+               <p>By granting,
+<list>
+                     <item>1. Licences to Curats to Preach.</item>
+                     <item>2. Licences for Schoolmasters to teach School.</item>
+                     <item>3. Licences for Parish Clarks.</item>
+                     <item>4. Licences to Physitians to practise Physick.</item>
+                     <item>5. Licences to Midwives to do their Office.</item>
+                     <item>6. Licences to Marry, <hi>which thing of it self ariseth to a vast Revenue.</hi>
+                     </item>
+                  </list>
+                  <list>
+                     <item>For Absolving Excommunicated persons.</item>
+                     <item>For putting men to clear themselves by Oath, with their Compurgators.</item>
+                     <item>For Commutation of Penance, for so the Rich come off with a round sum of Money, but the poor doing their
+<pb n="8" facs="tcp:50052:5"/>Penance in kind, must stand Excommunicated until they have paid their Fees.</item>
+                  </list>
+               </p>
+               <p>Sixthly,</p>
+               <p>By Probats of Wills, and granting Letters of Administration, <hi>which brings in constantly great Summes of Money.</hi>
+               </p>
+               <p>Seventhly,</p>
+               <p>By framing New Articles, and forcing Churchwardens to Pre<g ref="char:EOLhyphen"/>sent upon Oath, whereby many Innocent persons are brought into their Courts, and squeezed both in Conscience and Purse; and so is the Churchwarden also, if he do not take the Oath prepared for him.</p>
+            </div>
+            <div type="part">
+               <head>By their Visitations for Money.</head>
+               <p>
+                  <hi>First,</hi> Churchwardens of every Parish in <hi>England</hi> and Chappel are called, who receive a Book of Articles to Present by; if any are wanting, they are warned to appear at their Courts with Costs. These Churchwardens pay for their Book of Articles every year, (though the very same) as also for writing their Presentments by a Clark (which they themselves could do, but are not permitted) <hi>two shillings four pence;</hi> which in 9285 <hi>Parishes</hi> cometh to <hi>One thou<g ref="char:EOLhyphen"/>sand fifty eight pounds odd money,</hi> yearly.</p>
+               <p>
+                  <hi>Secondly,</hi> Ministers that are Licensed pay <hi>One shilling eight pence,</hi> or thereabouts, for shewing their Licence to preach, to the Register, at every Bishops Visitation, though seen and allowed before; af<g ref="char:EOLhyphen"/>ter that, <hi>Four shillings</hi> for Procuration to the Bishop; and to the Gentleman Apparator <hi>eight pence,</hi> though most pay <hi>twelve pence.</hi>
+               </p>
+               <p>I shall omit the poor Curats Suit and Service at this Court, only let you know, That when any Arch-Bishop comes newly to <hi>York,</hi> all the Parsons and Vicars in his Jurisdiction, though never so poor, and their charge never so great, give him a tenth of their Livings for a Benevolence, to help the poor Bishop to settle himself in <hi>Five
+<pb n="9" facs="tcp:50052:5"/>or six thousand pounds a year;</hi> and if any, yea, the meanest Vicar, whose poor Children want Bread, do through poverty omit the payment, this Reverend Father doth pittifully whip him to the ve<g ref="char:EOLhyphen"/>ry bones in his merciless Spiritual Court.</p>
+            </div>
+            <div type="part">
+               <head>By Arch-Deacons Visitations.</head>
+               <p>These are twice a year. At <hi>Easter</hi> Visitation the Ministers pay their <hi>Pascal Rents,</hi> or <hi>Synodals,</hi> which sums are not alike to all; some pay, 56 some less.</p>
+               <p>At <hi>Michaelmas</hi> they pay <hi>Procurations,</hi> some <hi>seven shillings,</hi> some <hi>ten shillings,</hi> some less. But it is judged that Ministers pay yearly at Visitations <hi>Five thousand pounds</hi> and upwards.</p>
+            </div>
+            <div type="part">
+               <head>By the vast Charges in Collegiat Churches.</head>
+               <p>There are twenty six great Deans with their Attendants and Ser<g ref="char:EOLhyphen"/>vants.</p>
+               <p>544 Canons, Residents and Prebendaries, with a numerous train of
+<list>
+                     <item>Vicars,</item>
+                     <item>Peti-Canons,</item>
+                     <item>Singing Men and Boyes, Choristers,</item>
+                     <item>Organists,</item>
+                     <item>Gospelers,</item>
+                     <item>Epistelers,</item>
+                     <item>Virgers.</item>
+                  </list>
+               </p>
+               <p>Now this Jovial Crew have belonging to them, about <hi>Four hun<g ref="char:EOLhyphen"/>dred thousand pounds yearly,</hi> in Lands, Rents, Leases, and other Re<g ref="char:EOLhyphen"/>venues and Profits thereunto belonging.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:50052:6"/>
+               <head>The excessive Expences that many thousand of the Trading People of the Nation are put unto, by the Rigorous and Tyrannical proceedings of the Bishops, in Excommu<g ref="char:EOLhyphen"/>nicating persons, for three pence, six pence, and very trivial things.</head>
+               <p>A Catalogue may shortly be presented to you of the many Fami<g ref="char:EOLhyphen"/>lies already undone by them; wherein it will be made manifest, That more Families have been Ruined, more Persons Imprisoned, more Money Spent by the Cruelty of the Prelates proceedings, than by all Law-Suites in all Courts of Judicature, all Payments and Taxes whatsoever, except upon the late Extraordinary Occa<g ref="char:EOLhyphen"/>sion.</p>
+            </div>
+            <div type="part">
+               <head>The vast sums of Money that the Bishops, Deans, <hi>&amp;c.</hi> have treasured up, extorting it from the Subjects for Fines.</head>
+               <p>You know that for Twenty Years sometime by-past, their Re<g ref="char:EOLhyphen"/>venues were alienated, and sold for great sums of Money to the Natives of <hi>England.</hi> Those who bought them had greatly improved them, who being some thousands of Families, are undone by being turned out without any Consideration. The Bishops enter at a time when most of the Old Leases were expired, they proclaim their Markets, he that gives most, Friend or Foe, he shall be taken Tenant; they screw up the value to the height, and hereby they have drained out of the Peoples Purses such Sums of Money, that amounts to so Monstrous a Mass, that scarce any Princes Treasury in <hi>Europe</hi> is able to ballance it; in the mean time, the Money that before ran currant in Trading, is Damned up in their Coffers.</p>
+               <p>Hereby the Money that should carry on Trade, is Ingrossed into the hands of a few Rusty Ecclesiasticks, who neither serve our Lord Jesus Christ, nor their Country, but their own Bellies, and hoord
+<pb n="11" facs="tcp:50052:6"/>up the Riches, that should be as the Blood in the <hi>Vena ptora,</hi> to be Distributed into every Vein and Part of the Body; but by being choked up in their <hi>Corban,</hi> brings the whole Nation into a <hi>Consump<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>And its very considerable, That in all other Trades, Men have something for their Money: The Farmer hath good Lands for his Money from the Gentleman; the Clothier hath good Wooll from the Farmer for his Money; the Merchant hath good Cloth from the Clothier for his Money; and thus it goes round to every ones benefit. But pray, what have we from the Bishops for our Money? The Answer will readily be made by the major part of the Land.</p>
+               <p>First,</p>
+               <p>We have all our Able, Godly, Orthodox Ministers turned out, ruined and beggard, and no manner of Supply provided for the maintenance of them and their Families; and in their roomes, in many places, a company of Debauched, Illiterate, Superstitious, Profane Priests, which, Blind-guides, must needs lead them that follow them to Hell.</p>
+               <p>Secondly,</p>
+               <p>We have gotten most of our Churchwardens Perjured, that do Swear to Present according to their Visitation Articles, and most of them undone that do not Swear; although the imposing of such an Oath is a breach of the Fundamental Laws of the Land. Those Churchwardens that are not perjured, but pursue the Oath in per<g ref="char:EOLhyphen"/>secuting their Neighbours, are plunged into such horrid guilt, that without serious Repentance, they must perish eternally, for they persecute the Godly for godliness sake, the Righteous for righteous<g ref="char:EOLhyphen"/>ness sake, as will appear in these following Instances.</p>
+               <p n="1">I. If a Minister never so Godly and Able, yea, though Ordain<g ref="char:EOLhyphen"/>ed, Preach without a Licence from the Bishop, the Churchwarden is bound to present him and bring him into trouble: if he Preach in a Cloak, and not in a Garment Canonical, he is bound to do the like.</p>
+               <p n="2">II. If any person go to hear a Sermon from his own Parish Church, though there be no Preaching-Minister there, nor no Ser<g ref="char:EOLhyphen"/>mon at all; and though he be bound by his Vow in Baptism to hear Sermons, this man is to be presented.</p>
+               <p n="3">III If a poor man that hath not Bread for his Family, but what
+<pb n="12" facs="tcp:50052:7"/>he earneth by his daily Labour, If he work upon a Holy-day, ap<g ref="char:EOLhyphen"/>pointed by <hi>Romish</hi> Institution, he is to be presented.</p>
+               <p n="4">IV. If any person coming to Church to their service, do not Stand Up at the Creed, do not Bow at the Name of Jesus, do not keep Off his Hat all the while, he must be Presented.</p>
+               <p>Now there are in all, <hi>Threescore and fourteen thousand Churchwar<g ref="char:EOLhyphen"/>dens and Sides-men in</hi> England <hi>every year,</hi> and what a dreadful thing is it to have all these yearly, either, <hi>Perjured, Persecutors</hi> or <hi>Perse<g ref="char:EOLhyphen"/>cuted.</hi>
+               </p>
+               <p>Thirdly,</p>
+               <p>We have gotten most of the Sober Trading part of the Nation Discouraged by Citations, Excommunications, Writs to take them Excommunicated, Imprisonments upon Ecclesiastical accounts; by this means, thousands of Families are already ruined, and many hundreds are ready to leave the Land, and remove into some other Country, where they may have Liberty of Conscience, and Free<g ref="char:EOLhyphen"/>dom from these devouring Harpies.</p>
+               <p>Fourthly,</p>
+               <p>We have got in stead of the Gospel in the Power and Purity of it, a Service collected out of the <hi>Romish</hi> Books, the Mass, Breviary, <hi>&amp;c.</hi> which Service of ours, King <hi>James</hi> called <hi>an ill sung Mass.</hi> We have got Surplices, Copes, Tippets, Chringings, <hi>&amp;c.</hi> out of the <hi>Romish Ritualls,</hi> insomuch that the Papists themselves call it <hi>An Apish imitation of the Mass.</hi>
+               </p>
+               <p>Fifthly,</p>
+               <p>We have gotten a swarm of Ecclesiastical Officers, which the Scriptures never knew, nor Reformed Churches ever owned.</p>
+               <p>Sixthly,</p>
+               <p>We have got a sort of proud Prelates, of mean Extract, not of the highest rank for Godliness, Learning and Labour in the Word, nor the greatest Champions for the Protestant Religion; witness their Silence at such a time when Popery hath so travelled to bring forth; so many Popish Books Printed and Published in <hi>England,</hi> in affront and contempt of the Reformed Religion, yet not one of our Bishops hath stood up in opposition to their design, nor Print<g ref="char:EOLhyphen"/>ed any Caution against Popery, or Answer to the Popish pernitious Pamphlets. However very elate they are, affronting our Nobility, trampling upon our Gentry, grinding to pouder all that put not in<g ref="char:EOLhyphen"/>to their Mouthes, or offer not at their Shrine; insomuch that a
+<pb n="13" facs="tcp:50052:7"/>Gentlemen of Quality, a Person, of 3000 <hi>l. per annum,</hi> speak<g ref="char:EOLhyphen"/>ing to one of the said Prelates (lately dead) boldly, but with due respect; the Prelate, in a fume, answered, <hi>What, Sir, do you think that it is fit for every Jack Gentleman to speak thus to a Bishop;</hi> deri<g ref="char:EOLhyphen"/>ding the Gentry of our Land, as not worthy to speak to a peevish Prelate. Surely a Gentleman of 500 <hi>l. per annum</hi> would have fallen under censure for presuming to speak to his Postilian.</p>
+               <p>We have gotten all manner of misery to Soul and Body, Plague, Fire, Sword, Universal Beggary, and without seasonable Mercy, the total Ruine of the whole Kingdom.</p>
+            </div>
+            <div type="part">
+               <head>But I know you will question, whether our Miseries do arise from the Cause Assigned?</head>
+               <p>To this I answer, The manifold provoking sins of the Land, as Adultery, Blasphemy, Swearing, Idolatry, Perjury, and contempt of God and Godliness, do pull hard with Heaven to bring down desolating Judgments. But that the nearest cause of our impover<g ref="char:EOLhyphen"/>ishments ariseth from the particular forementioned, will appear, if you weigh the Premises before inserted, and give them leave to speak their own conclusion: if Perjury causeth a Land to mourn, if Oppression and ridgid Persecution upon the Trading part of a Land begets Discontent and deserting of Trade; if rigorous ex<g ref="char:EOLhyphen"/>acting, and sordid hoording up the Money that should run currant in Trade, and that by such who contribute nothing to the Publick Weal, be the bane of Traffick, and the famishment of the poor Handicrafts-man, then we may lay all our Calamities at the Bi<g ref="char:EOLhyphen"/>shops doors.</p>
+               <p>I shall call in some credible Witnesses, Divines and Martyrs to confirm this Truth, and so leave it with you.</p>
+               <p>Bishop <hi>Jewel</hi> on <hi>Hag.</hi> 1. records out of <hi>Johannes Parisiensis,</hi> and others,
+<q>That when <hi>Constantine</hi> the great advanced Bishops, and endowed the Church with Lands and Temporal Possessions, there was a voice of Angels heard in the Air, saying, <hi>Hodie vene<g ref="char:EOLhyphen"/>num infunditum in Ecclesiam,</hi> This day Poyson is poured into the Church.</q>
+               </p>
+               <p>
+                  <hi>Bernard</hi> writes,
+<q>Since Prelates increased in Worldly pomp, chusing the first places in the Church, they have been the chiefest
+<pb n="14" facs="tcp:50052:8"/>in persecuting Jesus Christ; and have ever shewed themselves not Teachers, But Deceivers; not Pastors, but Impostors; not Prelates, but Pilates; succeeding not <hi>Peter</hi> in teaching, but <hi>Ro<g ref="char:EOLhyphen"/>mulus</hi> in murthering.</q>
+               </p>
+               <p>Lord <hi>Cobham,</hi> that faithfull Martyr, saith to the Bishops,
+<q>No ground have ye in all the Scriptures, so Lordly to take it upon you, but in <hi>Annas</hi> and <hi>Caiaphas,</hi> who sate in Judgment upon Christ and his Apostles, of them only have you taken it to judge Christ's Members as ye do.</q>
+               </p>
+               <p>Mr <hi>Tindal,</hi> that Godly and learned Martyr, writeth,
+<q>Wo to the Realm where Prelates are of the Council! as profitable are the Prelacy to the Realm with their Counsel, as Wolves to the Sheep, or Foxes to the <hi>Geese;</hi> for there is no mischief or disorder, whether it be in the Temporal Regiment or Spiritual, whereof they are not the chief causes, and even the very Fountain and Spring; so that it is impossible to preach against any mischief, except thou begin at them; or to set up any Reformation in the World, ex<g ref="char:EOLhyphen"/>cept they are first reformed: They are as indurat as <hi>Pharaoh;</hi> and therefore persecute they God's Word, and the Preachers thereof; they stir up mischief in the World, setting Princes to War; they get into the Consciences of Kings, and perswade them what they list, neither can any King have rest for them; they pretend they are for God and the Church, but their secret in<g ref="char:EOLhyphen"/>tent is to bring all under their power; and when they once are set high, then are they Tyrants above all Tyrants.</q>
+               </p>
+               <p>
+                  <hi>Mr John Frith,</hi> that worthy Martyr, in his Answer to <hi>Mr. Moor's</hi> Preface.
+<q>Since <hi>Sylvester</hi> received such Possessions hath the Canker so crept into the Church, that it hath almost left ne<g ref="char:EOLhyphen"/>ver a sound Member; then instead of Gods Word they preached their own Commandments, and made Laws to have all under them; and even as in the rooms of <hi>Moses, Aaron, Joshua, Caleb,</hi> and other such faithfull Leaders, came <hi>Herod, Annas, Caiaphas, Pilate,</hi> and <hi>Judas,</hi> which put Christ to death: So now instead of Christ, <hi>Peter, Paul, James, John,</hi> and the faithfull Followers of Christ, we have Popes, Cardinals, Arch-bishops, and proud Pre<g ref="char:EOLhyphen"/>lates, with their Proctors and malitious Ministers of their Ma<g ref="char:EOLhyphen"/>ster the Devil, whose end shall be according to their works.</q>
+               </p>
+               <p>Dr <hi>Barnes</hi> in his Supplication to <hi>Henry</hi> the eighth,
+<q>Now it is
+<pb n="16" facs="tcp:50052:8"/>so far come, that whosoever he be, high or low, rich or poor, wise or foolish, that speaketh against the Prelates, and their vitious li<g ref="char:EOLhyphen"/>ving, he is either made a Traytor to your Grace, or an Heretick, Enemy or Scismatick against holy Church; as though the Pre<g ref="char:EOLhyphen"/>lates were Kings or Gods: and if any man out of Gods Law, and right conscience speak against their damnable Tyranny, little will they stick to make him an Heretick; and if that will not help to colour and maintain their oppression, then add they Trea<g ref="char:EOLhyphen"/>son, Sedition, Rebellion, and contempt of your Grace, though he be never so true a Subject.</q>
+               </p>
+               <p>I shall conclude with a Passage of learned <hi>Mr Tindal</hi> in his <hi>Obebedience to a Christian Magistrate,</hi> p. 114, 128, 146.</p>
+               <p>
+                  <q>As thou canst heal no Disease except thou begin at the Root, even so canst thou preach against no mischief except thou begin at the Bishops; whether <hi>Judas</hi> was a Priest or no, I care not, but of this I am sure, That he now is not only Priest, but also a Bi<g ref="char:EOLhyphen"/>shop, Cardinal, and Pope. Bishops that preach not, or that preach ought save Gods Word, are none of Christs, nor of his anointing; but Servants of the Beast, whose Mark they bear, whose Word they preach, whose Law they maintain, clean against Gods Law: Bishops they are that can only minister the Tempo<g ref="char:EOLhyphen"/>ral Sword, their Office, the preaching of Gods Word, laid aside; which they will neither do themselves, nor suffer any man else to do, but slay with the Temporal Sword (which they have gotten out of the hands of all Princes) them that would: The preach<g ref="char:EOLhyphen"/>ing of Gods Word is hatefull to them; Why? For it is impossi<g ref="char:EOLhyphen"/>ble to preach Christ except thou preach against Antichrist; that is to say, them who with their false Doctrine, and violence of Sword, enforce to quench the True Doctrine of Christ. Our Pre<g ref="char:EOLhyphen"/>lates ought to be our Servants, as the Apostles were, to teach us Christs Doctrine, and not Lords over us, to oppress us with their own Doctrines and Inventions.</q>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
